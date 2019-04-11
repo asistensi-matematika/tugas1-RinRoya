@@ -1,7 +1,6 @@
 # TUGAS 1 ASISTENSI ALPRO - Jumat, 11 April 2019
-
-#### silahkan di edit
-untuk melihat preview silahkan klik [disini]()
+NAMA: 
+NRP: 
 
 ## DESKRIPSI SOAL
 Input : Koefisien $a,b,c$ dari polinomial $P_2(x)=ax^2+bx+c$ dimana $a\neq0$.
@@ -84,5 +83,7 @@ Input : -1 0 0
 Output :
 
 ~~~~
+
+## screenshot hasil running
 
 [link ke laporan]
