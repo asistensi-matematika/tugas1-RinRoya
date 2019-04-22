@@ -1,6 +1,6 @@
 # TUGAS 1 ASISTENSI ALPRO - Jumat, 11 April 2019
-NAMA: 
-NRP: 
+NAMA  : RIDHO NUR ROHMAN WIJAYA
+NRP   : 06111840000065
 
 ## DESKRIPSI SOAL
 Input : Koefisien $a,b,c$ dari polinomial $P_2(x)=ax^2+bx+c$ dimana $a\neq0$.
@@ -60,30 +60,49 @@ Polinomial x^2 -2x -3 memiliki
 
 ## input yang harus di run:
 ~~~~
-Input : 1 -2 3
-
-Output :
-
-~~~~
-~~~~
 Input : -2 3 0
 
 Output :
-
+Polinomial -2.0x^2 + 3.0x + 0.0 memiliki
+1. Diskriminan			: 9.0
+2. Akar-akar dari polinomial	: 0.0 dan 1.5
+3. Titik stasioner		: (0.75,1.125)
+4. Kecekungan kurva		: Bawah
+5. Nilai maksimum lokal		: 1.125
 ~~~~
 ~~~~
-Input : 1 0 4
+Input : 1 -2 1
 
 Output :
-
+Polinomial 1.0x^2 - 2.0x + 1.0 memiliki
+1. Diskriminan			: 0.0
+2. Akar-akar dari polinomial	: 1.0
+3. Titik stasioner		: (1.0,0.0)
+4. Kecekungan kurva		: Atas
+5. Nilai minimum lokal		: 0.0
 ~~~~
 ~~~~
-Input : -1 0 0
+Input : -3 0 3
 
 Output :
+Polinomial -3.0x^2 + 0.0x - 3.0 memiliki
+1. Diskriminan			: -36.0
+2. Akar-akar dari polinomial	: 1.0i dan -1.0i
+3. Titik stasioner		: (0.0,-3.0)
+4. Kecekungan kurva		: Bawah
+5. Nilai maksimum lokal		: -3.0
+~~~~
+~~~~
+Input : 0 0 0
 
+Output :
+Nilai a tidak boleh 0
 ~~~~
 
 ## screenshot hasil running
+![-230](https://user-images.githubusercontent.com/49511033/56494597-f545e900-651c-11e9-8efc-6849cac473d2.PNG)
+![1-21tugas1](https://user-images.githubusercontent.com/49511033/56494601-fa0a9d00-651c-11e9-8bd8-28f5c7473853.PNG)
+![-30-3tugas1](https://user-images.githubusercontent.com/49511033/56494611-00991480-651d-11e9-947e-ffa85d49e2a0.PNG)
+![000tugas1](https://user-images.githubusercontent.com/49511033/56494621-07c02280-651d-11e9-848e-1b41007dd072.PNG)
 
-[link ke laporan]
+[link ke laporan](https://github.com/asistensi-matematika/tugas1-RinRoya/blob/master/RidhoNurRohmanWijaya_Tugas1_Solution.java)
